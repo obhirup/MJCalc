@@ -1,4 +1,4 @@
-package com.example.casio_calculator
+package com.example.mjcalc
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:casio_calculator/engine/calculator_engine.dart';
-import 'package:casio_calculator/models/calculator_config.dart';
-import 'package:casio_calculator/models/calculator_enums.dart';
+import 'package:mjcalc/engine/calculator_engine.dart';
+import 'package:mjcalc/models/calculator_config.dart';
+import 'package:mjcalc/models/calculator_enums.dart';
 
 void main() {
   group('Casio Calculator Engine Unit Tests', () {

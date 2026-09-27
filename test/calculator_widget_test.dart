@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:casio_calculator/models/calculator_config.dart';
-import 'package:casio_calculator/providers/calculator_provider.dart';
-import 'package:casio_calculator/screens/calculator_screen.dart';
-import 'package:casio_calculator/services/storage_service.dart';
-import 'package:casio_calculator/theme/claude_theme.dart';
-import 'package:casio_calculator/widgets/calculator_keypad.dart';
+import 'package:mjcalc/models/calculator_config.dart';
+import 'package:mjcalc/providers/calculator_provider.dart';
+import 'package:mjcalc/screens/calculator_screen.dart';
+import 'package:mjcalc/services/storage_service.dart';
+import 'package:mjcalc/theme/claude_theme.dart';
+import 'package:mjcalc/widgets/calculator_keypad.dart';
 
 void main() {
   late StorageService storageService;
